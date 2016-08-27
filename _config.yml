@@ -22,3 +22,6 @@ navigation:
   - name: Facebook Page
     url: '@kennedybailey.art'
     type: external
+  - name: The Hierarchy Series
+    id: 6abc15f9-372a-4594-b743-6e5bfc6fc4ff
+    type: content
