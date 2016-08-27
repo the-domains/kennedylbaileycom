@@ -6,9 +6,13 @@ color:
   saturation: 0.7291049002669752
   rhythmicContrast: 0.8470994969829917
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: kennedylbailey.com
+navigation:
+  - name: Art Portfolio Website
+    url: kennedybailey.com
+    type: external
