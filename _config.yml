@@ -19,3 +19,6 @@ navigation:
   - name: Instagram
     url: '@kennedyb.art'
     type: external
+  - name: Facebook Page
+    url: '@kennedybailey.art'
+    type: external
