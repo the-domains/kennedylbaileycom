@@ -16,3 +16,6 @@ navigation:
   - name: Art Portfolio Website
     url: kennedybailey.com
     type: external
+  - name: Instagram
+    url: '@kennedyb.art'
+    type: external
